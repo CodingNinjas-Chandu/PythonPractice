@@ -69,4 +69,5 @@ It contains practice notebooks covering fundamental syntax, algorithmic construc
 Click the **Open in Colab** badge next to any module to run and execute code directly in your browser.
 
 * **`01_python_basics.ipynb`** — [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1jf8ipMWf636VLS0qF2GCksYgAigtOiEp?usp=sharing)
+* **`01_Introduction_to_Python.ipynb`** — [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1e05FPsfjfrP8buUtfLr7E5oCiQ71y70B?usp=sharing)
 * **`README.md`** — Course tracking and setup documentation
