@@ -70,4 +70,6 @@ Click the **Open in Colab** badge next to any module to run and execute code dir
 
 * **`01_python_basics.ipynb`** — [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1jf8ipMWf636VLS0qF2GCksYgAigtOiEp?usp=sharing)
 * **`01_Introduction_to_Python.ipynb`** — [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1e05FPsfjfrP8buUtfLr7E5oCiQ71y70B?usp=sharing)
+* **`11_NumPy_I.ipynb`** - [![View on GitHub](https://img.shields.io/badge/View%20on-GitHub-181717?logo=github&logoColor=white)](11_NumPy_I.ipynb)
+* **`11_NumPy_II.ipynb`** - [![View on GitHub](https://img.shields.io/badge/View%20on-GitHub-181717?logo=github&logoColor=white)](11_NumPy_II.ipynb)
 * **`README.md`** — Course tracking and setup documentation
